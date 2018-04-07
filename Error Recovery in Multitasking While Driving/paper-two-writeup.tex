@@ -1,0 +1,48 @@
+\documentclass[12pt]{article}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[autostyle]{csquotes}
+\usepackage{natbib}
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{todonotes}
+\usepackage{titling}
+\usepackage{subcaption}
+\MakeOuterQuote{"}
+\newcommand\cites[1]{\citeauthor{#1}'s\ (\citeyear{#1})}
+\AtBeginDocument{
+  \addtocontents{toc}{\small}
+  \addtocontents{lof}{\small}
+}
+\title{Error Recovery in Multitasking While Driving}
+\author{William Ewart}
+\date{April 2017}
+
+\begin{document}
+\begin{titlingpage}
+\maketitle
+\tableofcontents
+\end{titlingpage}
+\newpage
+
+\section{Contribution}
+Emphasis on recovering from errors rather than preventing errors.
+Show that error recovery is just as important as error prevention. Can't prevent all errors so for a driver to easily recover from them keeps there attention on the road to prevent them from causing an accident or not seeing vital information. 
+No mention of how individual circumstances may affect the drivers abilities to achieve the tasks that they were asked to do. \cite{Janssen}
+\cite{Jin} shows seven different strategies of self-interruption, the method in this is using a self-interrupting type to gather data. The types that are potentially being used are the routine and recollection ones. Results from this paper give some more consequences of these strategies. Further questions arise from the results of both of these papers. \cite{Jin} suggests that the types of self-interruption are only used when someone is focusing on the primary task. However in the case of \cite{Lee} the drivers may also be using these self-interruption types identified to stop focusing on the secondary task and instead refocus on the primary task of following the car in front. Questions on whether primary tasks are the only ones that can be interrupted from and for cases such as \cite{Lee} maybe both tasks are of equal importance to the driver.
+
+Questions about the way in which users prioritise tasks can be formed from the results of this paper. For example which task does the driver consider primary in this experiment? 
+\section{Justification of Conclusions}
+Only using a simulation, may be different results in an actual car where the risk is higher for the driver. Also the driver may be more comfortable in a real car which is familiar to them compared to a simulation. To counter this \cite{Lee} allowed the participants to practice the simulation until they were comfortable
+Switching to and from the road is reliant on an internal threshold. This is a function of glance duration, the time that they spent looking at the road before switching to the secondary task. There may be other factors affecting this decision such as confidence level, experience behind the wheel and how much the road is changing (In traffic/on a busy motorway or clear roads), although the amount of time spent looking at the road before switching intuitively seems like it plays a big role. Graph on the accumulation of information and switching to the screen isn't really backed up by the results. The exponential accumulation and then linear decay isn't explained in the text and would therefore suggest it is more of an intuitive opinion.
+Errors impair safe driving this can be seen in the results that are shown, the more errors that the drivers incurred the less time they were focusing on the road. This means that there is a higher probability of missing what is happening on the road and as a result potentially putting the driver at a higher risk of an accident. The results also show that the drivers have reduced speed and lane control which may also cause a higher risk of an accident. 
+Immediate feedback makes drivers visually focus longer on the task which can be seen in the results of the strategies used by each driver. When there was a delay they were more likely to switch back to the road after every step, whereas when there was no delay they were less likely to switch back to the road after every step. It is also suggested that the amount of visual cues that the drivers had while they were completing the secondary task allowed them to not get absorbed into the task. 
+It is also concluded that the results from this study can be extended to any multitasking situation with different options to recover from an error. The results are gathered by \cite{Lee} suggest generic strategies that were performed by the drivers. However the tasks performed were very simple and the sample size used was relatively small. This indicates that further work should be done on the study to see if the results can be replicated under different conditions such as performing more complicated tasks and having more complicated driver conditions. 
+\section{Further Work}
+No further work is suggested in the paper written by \citep{Lee} even though there are multiple extensions to their current research. One immediate expansion of their research would be to test on a real life scenario to see if the strategies of the drivers change or if there are any new ones that appear. However the way in which this experiment would be carried out so that no danger would come to those performing the experiment and to the general public would need more thought. Another extension that \citep{Lee} don't draw attention to is how the strategies differ between demographics. Are younger and more technology confident individuals more likely to adopt different strategies than older individuals that may be less confident. The ability of the participants to use an electronic keyboard may also have an impact as well on the strategies used and the time taken to compete tasks. 
+The task performed by each driver was relatively simple and conducted under simple conditions (Following a car in front of them). If the task or the driver conditions were more complex adoption of strategies may be different and there could be other strategies that the drivers use under these more complicated conditions. A simple change for this could be varying the speed of the car in front or having it change lanes occasionally. This would prevent the driver from getting into a routine where they check the road for a set time do the task for a set and so on. 
+Another change that could be tested other than the delay of words being typed could be screen size. This may have the same impact as the delay in words being typed and similar or different strategies could be adopted when the screen size is varied.
+\bibliographystyle{agsm}
+\bibliography{bibliography}
+
+\end{document}
