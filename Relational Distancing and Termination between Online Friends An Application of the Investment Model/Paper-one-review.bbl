@@ -1,5 +1,11 @@
 \begin{thebibliography}{xx}
 
+\harvarditem[Bevan et~al.]{Bevan, Pfyl \harvardand\ Barclay}{2012}{Bevan}
+Bevan, J.~L., Pfyl, J. \harvardand\ Barclay, B.  \harvardyearleft
+  2012\harvardyearright , `Negative emotional and cognitive responses to being
+  unfriended on facebook: An exploratory study', {\em Computers in Human
+  Behavior} {\bf 28}(4),~1458--1464.
+
 \harvarditem{Carpenter \harvardand\ Tong}{2017}{Carpenter}
 Carpenter, C.~J. \harvardand\ Tong, S.~T.  \harvardyearleft
   2017\harvardyearright , Relational distancing and termination between online
@@ -7,5 +13,11 @@ Carpenter, C.~J. \harvardand\ Tong, S.~T.  \harvardyearleft
   2017 CHI Conference on Human Factors in Computing Systems', CHI '17, ACM, New
   York, NY, USA, pp.~6925--6935.
 \newline\harvardurl{http://doi.acm.org/10.1145/3025453.3026026}
+
+\harvarditem{Rusbult}{1980}{Rusbult}
+Rusbult, C.~E.  \harvardyearleft 1980\harvardyearright , `Commitment and
+  satisfaction in romantic associations: A test of the investment model', {\em
+  Journal of Experimental Social Psychology} {\bf 16}(2),~172 -- 186.
+\newline\harvardurl{http://www.sciencedirect.com/science/article/pii/0022103180900074}
 
 \end{thebibliography}

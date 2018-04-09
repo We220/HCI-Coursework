@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.20)  3 APR 2018 11:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.20)  9 APR 2018 12:59
 entering extended mode
 **./Paper-one-review.tex
 (Paper-one-review.tex
@@ -943,31 +943,37 @@ ng (ext4): destination with the same identifier (name{page.1}) has been already
  used, duplicate ignored
 <to be read again> 
                    \relax 
-l.42 
-      [1] [2] (Paper-one-review.bbl) [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 65.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
+l.39 
+      [1] [2] [3] (Paper-one-review.bbl
+Overfull \hbox (9.60301pt too wide) in paragraph at lines 18--22
+\OT1/cmr/bx/n/12 URL: \OT1/cmr/m/it/12 http://www.sciencedirect.com/science/art
+icle/pii/0022103180900074 
+ []
+
+) [4]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 50.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 50.
  (Paper-one-review.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 65.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 65.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 50.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 50.
 Package rerunfilecheck Info: File `Paper-one-review.out' has not changed.
 (rerunfilecheck)             Checksum: B55B4A68D82AFFFE17E763DE8C42FFD9;160.
  ) 
 Here is how much of TeX's memory you used:
- 18461 strings out of 493312
- 337455 string characters out of 3144946
- 429511 words of memory out of 3000000
- 21696 multiletter control sequences out of 15000+200000
+ 18470 strings out of 493312
+ 337567 string characters out of 3144946
+ 430511 words of memory out of 3000000
+ 21702 multiletter control sequences out of 15000+200000
  7018 words of font info for 25 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,6n,94p,1012b,424s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,6n,94p,1166b,424s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/MiKTeX 2.9/fonts
 /type1/public/amsfonts/cm/cmbx12.pfb><C:/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmr12.pfb><C:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Paper-one-review.pdf (4 pages, 86527 bytes).
+Output written on Paper-one-review.pdf (5 pages, 97654 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 10 named destinations out of 1000 (max. 500000)
+ 99 PDF objects out of 1000 (max. 8388607)
+ 13 named destinations out of 1000 (max. 500000)
  37 words of extra memory for PDF output out of 10000 (max. 10000000)
 
